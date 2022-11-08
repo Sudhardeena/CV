@@ -30,6 +30,10 @@ a {
 a:hover{
   color: #EAF6F6;
 }
+td>:hover{
+  color: #66BFBF;
+}
+span{color: black;}
 p {
   line-height: 2;
 }
